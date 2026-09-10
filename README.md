@@ -25,7 +25,7 @@ O que pratiquei nele:
 
 ## Como abrir
 
-É só baixar a pasta do projeto e abrir o arquivo `index.html` no navegador.
+É só baixar a pasta do projeto e abrir o arquivo `html/home.html` no navegador.
 
 ## Contato
 
